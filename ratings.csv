@@ -1,0 +1,145 @@
+Name,Rating,,First,Last,Salary
+Kang Shin,3.1,,Kang,Shin,269668
+Pinaki Mazumder,2.2,,Pinaki,Mazumder,265376
+Hosagrahar Jagadish,3.8,,Hosagrahar,Jagadish,250805
+Michael Wellman,3.2,,Michael,Wellman,250000
+Trevor Mudge,1.5,,Trevor,Mudge,240022
+John Hayes,3,,John,Hayes,230127
+John Laird,4.5,,John,Laird,220172
+Benjamin Kuipers,2.3,,Benjamin,Kuipers,215115
+Valeria Bertacco,4.5,,Valeria,Bertacco,210638
+Thomas Wenisch,4.4,,Thomas,Wenisch,208666
+Karem Sakallah,2.9,,Karem,Sakallah,205584
+Peter Chen,4.6,,Peter,Chen,205000
+Todd Austin,4.8,,Todd,Austin,204685
+Brian Noble,3.6,,Brian,Noble,204241
+Kevin Fu,3.5,,Kevin,Fu,196478
+Atul Prakash,3.7,,Atul,Prakash,194920
+Rada Mihalcea,4.1,,Rada,Mihalcea,185880
+Zhuoqing Morley Mao,2.4,,Zhuoqing,Mao,185191
+Odest Chadwicke Jenkins,4.3,,Odest,Jenkins,184000
+Mark Guzdial,2.7,,Mark,Guzdial,183715
+Elliot Soloway,3.5,,Nikhil,Bansal,183000
+Mark Ackerman,2.9,,Elliot,Soloway,181578
+Quentin Stout,2.1,,Mark,Ackerman,177739
+Joyce Chai,3,,Quentin,Stout,173805
+Westley Weimer,5,,Joyce,Chai,171380
+Seth Pettie,3.3,,Westley,Weimer,170360
+David Chesney,2.7,,Seth,Pettie,167200
+Edwin Olson,4.7,,Kelly,Cormier,161105
+Mark Brehob,4.4,,David,Chesney,157172
+Jenna Wiens,3.6,,Edwin,Olson,156951
+Satish Narayanasamy,3.3,,Donna,Bender,153030
+Gregory Wakefield,3.1,,Mark,Brehob,152912
+Kevin Leach,4.7,,Jenna,Wiens,150720
+Honglak Lee,4.3,,Satish,Narayanasamy,150580
+Reetuparna Das,2.1,,Gregory,Wakefield,145220
+Alanson Sample,2.7,,Kevin,Leach,142180
+Emily Provost,3.6,,Honglak,Lee,141102
+Danai Koutra,3.8,,Reetuparna,Das,141074
+Harsha Madhyastha,4.9,,Alanson,Sample,140254
+Sugih Jamin,2.7,,Emily,Provost,140000
+Baris Kasikci,4.8,,Ronald,Dreslinski Jr,138820
+Manos Kapritsos,5,,Danai,Koutra,137500
+Roya Ensafi,5,,Harsha,Madhyastha,134485
+Justin Johnson,5,,Sugih,Jamin,131092
+David Fouhey,4.8,,Lu,Wang,130200
+David Paoletti,4.8,,N,Chowdhury,129922
+Cyrus Omar,4.5,,Baris,Kasikci,129027
+Jason Mars,3.9,,Mahdi,Cheraghchi Bashi Astaneh,128658
+Thatchaphol Saranurak,1,,Manos,Kapritsos,128135
+Peter Honeyman,1.8,,Lingjia,Tang,127330
+Andrew Deorio,4.7,,Nikola,Banovic,127264
+Jeffrey Ringenberg,4.3,,Roya,Ensafi,127229
+Marcus Darden,4.5,,Justin,Johnson,126820
+Amir Kamil,4,,David,Fouhey,126820
+James Juett,4.9,,David,Paoletti,126732
+Sindhu Kutty,4,,Cyrus,Omar,126341
+William (Bill) Arthur,4.3,,Jason,Mars,125500
+Andrew Morgan,3.8,,Thatchaphol,Saranurak,125477
+John Kloosterman,4.4,,Gregory,Bodwin,124920
+Kimberly Diaz,4.7,,Xinyu,Wang,124920
+Jonathan Beaumont,4.6,,Euiwoong,Lee,124920
+Hector Garcia-Ramirez,3.8,,Xu,Wang,124440
+Raed Almomani,5,,Anhong,Guo,124440
+Emily Graetz,4.1,,Benjamin,Fish,123000
+Sofia Saleem,5,,Michal,Derezinski,123000
+Austin Yarger,4.9,,Peter,Honeyman,122387
+Ben Torralva,2,,Yatin,Manerkar,120000
+Somayeh Molaei,5,,Paul,Grubbs,120000
+,,,Max,New,120000
+,,,Andrew,DeOrio,118546
+,,,Jeffrey,Ringenberg,118440
+,,,Marcus,Darden,118372
+,,,Victor,Tarcea,116465
+,,,Karen,Liska,113965
+,,,Mithun,Chakraborty,113306
+,,,Amir,Kamil,110583
+,,,James,Juett,108075
+,,,Sindhu,Kutty,107529
+,,,William,Aerts,105800
+,,,William,Arthur,104949
+,,,Andrew,Morgan,103626
+,,,John,Kloosterman,100393
+,,,Steven,Crang,100180
+,,,Kimberly,Diaz,100051
+,,,Jonathan,Beaumont,100051
+,,,Laura,Burdick,99182
+,,,Denise,Duprie,95940
+,,,Therese,Foran,92705
+,,,Kristopher,Smith,92025
+,,,Veronica,Perez-Rosas,91671
+,,,Hector,Garcia-Ramirez,89487
+,,,Xin,He,88306
+,,,James,Perretta,83070
+,,,Patricia,Hayes,82000
+,,,Mazin,Assanie,79270
+,,,Raed,Almomani,78587
+,,,Emily,Graetz,78082
+,,,Sofia,Saleem,76671
+,,,Julie,Tashjian,76500
+,,,Adetutu,Ajayi,75000
+,,,Ohad,Trabelsi,75000
+,,,Maggie,Makar,75000
+,,,Brian,Rice,74925
+,,,Stephanie,Shepard,73840
+,,,Jack,Stewart Jr,72900
+,,,Jonathan,Merrill,72000
+,,,Austin,Yarger,71219
+,,,Joshua,Meyer,70090
+,,,Fitsum,Andargie,70000
+,,,Yiping,Kang,70000
+,,,Somayeh,Molaei,70000
+,,,Yuval,Moskovitch,70000
+,,,Cynthia,Estell,69999
+,,,Ben,Torralva,68090
+,,,Fatemeh,Vahedian,68000
+,,,Melissa,Vaquera,68000
+,,,Ian,Stewart,67725
+,,,Ashley,Andreae,65510
+,,,Seyedamirhossein,Mirhosseininiri,65000
+,,,Magdalena,Calvillo,64440
+,,,Zachary,Champion,63295
+,,,Somayeh,Molaei,60000
+,,,Stephen,Reger,60000
+,,,Leqi,Zhu,60000
+,,,Sarah,Pena,58650
+,,,Kimberly,Clark,58470
+,,,Christa,Carr,58440
+,,,Taylor,Bruns,57900
+,,,Shelby,Eddy,57900
+,,,Yolonda,Coleman,56000
+,,,Joshua,Zucal,55700
+,,,Diane,Crang,54775
+,,,Aurelia,Bunescu,54640
+,,,Sarah,Snay,54050
+,,,Alisha,Harper,54000
+,,,Obioha,Unaeze,54000
+,,,Sylvia,Galaty,51000
+,,,Stephanie,Jones,51000
+,,,Rose,Sherry,50300
+,,,Jamie,Goldsmith,48500
+,,,Kelly,Sabo,47131
+,,,Yili,Lin,45000
+,,,Allison,Edelbrock,44000
+,,,Shannon,McCaulley,44000
